@@ -2,7 +2,7 @@
 
 **Course**: Computer Engineering Basics  
 **Instructor**: Professor Davood Abadi  
-**University**: University of Science and Technology
+**University**: Iran University of Science and Technology
 
 This project was developed one year ago, but due to the inexperience at the time, Git was not utilized. The entire project has now been uploaded. 
 
